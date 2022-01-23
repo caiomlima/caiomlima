@@ -5,7 +5,7 @@
 
 <h2 align="center"> A quick resume about me </h2>
 <br>
-My name is Caio Moreira Lima, i'm a 19 older brazilian self taught student and a Java Developer, which loves electronic music and games like FPS and RPG (Destiny, Dark Souls, Diablo, etc.).
+My name is Caio Moreira Lima, i'm a 19 older brazilian self taught student and a C# Developer, which loves electronic music and games like FPS and RPG (Destiny, Dark Souls, Diablo, etc.).
 <br>
 
 <!-- <h2 align="center"> Bio </h2>
