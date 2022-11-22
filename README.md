@@ -5,7 +5,7 @@
 
 <h2 align="center"> A quick resume about me </h2>
 <br>
-My name is Caio Moreira Lima, i'm a 20 older brazilian self taught student and a C# .Net Developer, which loves electronic music and games like FPS and RPG (Destiny, Dark Souls, Diablo, etc.).
+My name is Caio Moreira Lima, i'm a 20 older brazilian self taught student and a C# .NET Developer, which loves electronic music and games like FPS and RPG (Destiny, Dark Souls, Diablo, etc.).
 <br>
 
 <!-- <h2 align="center"> Bio </h2>
@@ -30,7 +30,7 @@ My name is Caio Moreira Lima, i'm a 20 older brazilian self taught student and a
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <!-- <img align="center" alt="SpringBoot" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"> -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Backend .NET & C# -->
+  <!-- .NET C# & Unity3D -->
   <img align="center" alt="C-Sharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <!-- <img align="center" alt="DotNet" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"/> -->
   <img align="center" alt="DotNetCore" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
