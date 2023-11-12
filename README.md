@@ -3,10 +3,12 @@
   <a href="https://www.linkedin.com/in/caiomoreiralima/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
 
+<!-- 
 <h2 align="center"> A quick resume about me </h2>
 <br>
 My name is Caio Moreira Lima, i'm a 20 older brazilian self taught student and a C# .NET Developer, which loves electronic music and games like FPS and RPG (Destiny, Dark Souls, Diablo, etc.).
-<br>
+<br> 
+-->
 
 <!-- <h2 align="center"> Bio </h2>
 <br>
@@ -34,7 +36,7 @@ My name is Caio Moreira Lima, i'm a 20 older brazilian self taught student and a
   <img align="center" alt="C-Sharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <!-- <img align="center" alt="DotNet" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"/> -->
   <img align="center" alt="DotNetCore" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
-  <img align="center" alt="Unity" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg">
+  <!-- <img align="center" alt="Unity" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"> -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- C++ -->
   <!-- <img align="center" alt="C-PlusPlus" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> -->
